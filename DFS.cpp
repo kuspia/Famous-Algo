@@ -22,14 +22,4 @@
                     }
                 }
             }
-        
-        >>> Problems:
-        
-            Problem-1 : https://codeforces.com/contest/902/problem/B
-            Solution  : https://codeforces.com/contest/902/submission/77746180
-            
-            Problem-2 : https://codeforces.com/contest/1363/problem/E
-            Solution  : https://codeforces.com/contest/1363/submission/82170559
-            
-            Problem-3 : https://codeforces.com/contest/977/problem/E
-            Solution  : https://codeforces.com/contest/977/submission/78635965
+    
