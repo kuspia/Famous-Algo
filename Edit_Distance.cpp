@@ -4,7 +4,7 @@ using namespace std;
 int editDistance(string s, string t) {
         // Code here
         /*
-            
+               
                     NULL    g   e   s   e   k
             NULL     0      1   2   3   4   5
              g       1      0   1   2   3   4
@@ -42,4 +42,4 @@ int main(){
     cin >> t;
     cout << editDistance(s, t) << endl;
     return 0;
-}
+} 
