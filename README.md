@@ -15,6 +15,10 @@
 </p>
 
 
+# _Hey that will take 1 minute, comeon read it first before you create an issue or PR_
+
+- [x] Take a look at [Contributing Guide](https://github.com/kuspia/Famous-Algo/blob/main/CONTRIBUTING.md) (Necessary)
+
 <h1 align=center> Wonderful Contributors ✨ </h1>
 
 Thanks goes to these wonderful people 😊
@@ -22,3 +26,5 @@ Thanks goes to these wonderful people 😊
 <a href="https://github.com/kuspia/Famous-Algo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kuspia/Famous-Algo" />
 </a>
+
+_Drop a beautiful star if you feel so_
