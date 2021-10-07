@@ -27,4 +27,9 @@ Thanks goes to these wonderful people 😊
   <img src="https://contrib.rocks/image?repo=kuspia/Famous-Algo" />
 </a>
 
-_Drop a beautiful star if you feel so_
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+_Drop a beautiful star on my repo if you feel so_
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
